@@ -240,3 +240,11 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+react-webpack-visualstudio/src/react-webpack-visualstudio/bin
+react-webpack-visualstudio/src/react-webpack-visualstudio/obj
+react-webpack-visualstudio/src/react-webpack-visualstudio/project.lock.json
+react-webpack-visualstudio/src/react-webpack-visualstudio/node_modules
+react-webpack-visualstudio/src/react-webpack-visualstudio/npm-debug.log
+react-webpack-visualstudio/src/react-webpack-visualstudio/wwwroot/dist
+react-webpack-visualstudio/src/react-webpack-visualstudio/wwwroot/assets
